@@ -4,6 +4,10 @@ _HorapaVsKaprao_ - a project for training an AI to classified the pictures of 2 
 
 In this project, I created an AI without pretrained model to classified two types of plants **Thai basil (Horapa)** and **Holy basil (Kaprao)**, but there are some problems with the dataset i.e. imbalance of the dataset and lack of data. I need to solve those problems to get the best model.
 
+## Dataset
+
+Thank you [dataset](https://github.com/TAUTOLOGY-EDUCATION/DATASET/tree/main/HorapaVsKaprao) from [Tautology Thailand](https://www.facebook.com/tautologyai/photos/a.1958623857592839/4882385715216624/)
+
 ## Youtube
 
 For more information can be seen in my [video]("https://youtu.be/kdaR6t4QL2E") on YouTube.
