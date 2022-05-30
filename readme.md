@@ -10,7 +10,7 @@ Thank you [dataset](https://github.com/TAUTOLOGY-EDUCATION/DATASET/tree/main/Hor
 
 ## Youtube
 
-For more information can be seen in my [video]("https://youtu.be/kdaR6t4QL2E") on YouTube.
+For more information can be seen in my [video](https://youtu.be/kdaR6t4QL2E) on YouTube.
 
 [![new_thumb](./fig/cover.png)]("https://youtu.be/kdaR6t4QL2E")
 
@@ -20,10 +20,10 @@ For more information can be seen in my [video]("https://youtu.be/kdaR6t4QL2E") o
 
 ## Install
 
-- Copy from my [colab project]("https://colab.research.google.com/drive/1sRddhORHB8w6DY7NP9WXBGuihFgxl_Oa?usp=sharing")
+- Copy from my [colab project](https://colab.research.google.com/drive/1sRddhORHB8w6DY7NP9WXBGuihFgxl_Oa?usp=sharing)
   ![Colab copy](./fig/colab_copy.png)
 
-- Download from [this repository]("") and import to colab
+- Download from [this repository](https://github.com/TitorPs360/horapa-vs-kaprao/blob/main/HorapaVsKaprao.ipynb) and import to colab
   ![Colab import 01](./fig/colab_import_01.png)
 
   ![Colab import 01](./fig/colab_import_02.png)
